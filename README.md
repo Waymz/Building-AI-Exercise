@@ -9,6 +9,10 @@ or Azure). A small collector maps a company's network: devices, servers, virtual
 to whom. AI then fills the gaps in that map and drafts a migration plan in which **every recommendation
 points to the evidence behind it**, so an engineer can check it instead of trusting it.
 
+Once the engineer reviews and approves the plan, it becomes a project in a built-in tracker, similar
+to Smartsheet or Microsoft Project, where each migration wave, task, owner and date is tracked through
+to completion.
+
 ## Background
 
 As someone who has been in IT for almost 30 years, and been through many migrations and acquisitions, I have found diligence begins with questions: what do we have, what depends on what, and what should move together?
@@ -134,6 +138,8 @@ kind of guess a technician should double-check.
 - Collect migration outcomes over time so a risk model can learn which servers cause trouble.
 - Let the engineer's corrections feed back into the classifier, so each wrong guess makes the next
   one better.
+- Connect the built-in project tracker to Smartsheet and Microsoft Project, so an approved migration
+  plan can be pushed into the tool the team already uses.
 
 ## Acknowledgments
 
