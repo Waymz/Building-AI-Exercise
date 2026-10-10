@@ -19,7 +19,13 @@ This is a common problem, not a rare one. Managed service providers (MSPs) do th
 client after client, mostly by hand with spreadsheets, interviews and screenshots, and the quality
 depends on who did the work.
 
-My motivation: I have spent more almost 30 years in networking and IT infrastructure, as a network
+The problem is sharpest in companies that grow through mergers and acquisitions. Every deal brings in
+another network that nobody on the buying side built or documented, and integration usually starts
+before anyone fully understands it. A serial acquirer does this several times a year, so a fast,
+repeatable assessment of each new company's network becomes part of due diligence and
+post-acquisition planning, not a one-off project.
+
+My motivation: I have spent almost 30 years in networking and IT infrastructure, as a network
 engineer, a technical account manager running incident response, and an IT manager. I have done these
 migrations and I have been on the incident bridge when one went wrong. I am building a network
 assessment tool as a personal project, and this course showed me where AI can honestly help it and
