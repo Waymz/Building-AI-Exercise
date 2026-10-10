@@ -11,7 +11,7 @@ points to the evidence behind it**, so an engineer can check it instead of trust
 
 ## Background
 
-As someone who has been in IT for almost 30 years, and been through many migrations and acquisitions I have found diligence begins with questions: what do we have, what depends on what, and what should move together?
+As someone who has been in IT for almost 30 years, and been through many migrations and acquisitions, I have found diligence begins with questions: what do we have, what depends on what, and what should move together?
 In small and mid-sized businesses the honest answer is usually "we're not sure." Documentation is stale, the person who built the network has left, and a forgotten dependency (a license server, a database an old app still calls) is what turns a weekend
 cutover into a Monday outage.
 
@@ -25,7 +25,7 @@ before anyone fully understands it. A serial acquirer does this several times a 
 repeatable assessment of each new company's network becomes part of due diligence and
 post-acquisition planning, not a one-off project.
 
-My motivation: I have spent almost 30 years in networking and IT infrastructure, as a network
+My motivation: I have worked in networking and IT infrastructure as a network
 engineer, a technical account manager running incident response, and an IT manager. I have done these
 migrations and I have been on the incident bridge when one went wrong. I am building a network
 assessment tool as a personal project, and this course showed me where AI can honestly help it and
