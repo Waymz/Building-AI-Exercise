@@ -15,7 +15,7 @@ to completion.
 
 ## Background
 
-As someone who has been in IT for almost 30 years, and been through many migrations and acquisitions, I have found diligence begins with questions: what do we have, what depends on what, and what should move together?
+As someone who has been in IT for almost 30 years, and been through many migrations and acquisitions, I have found diligence begins with three questions: what do we have, what depends on what, and what should move together?
 In small and mid-sized businesses the honest answer is usually "we're not sure." Documentation is stale, the person who built the network has left, and a forgotten dependency (a license server, a database an old app still calls) is what turns a weekend
 cutover into a Monday outage.
 
